@@ -59,11 +59,11 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 
 ### Vibration Sensor Readings Over Time
 
-![Vibration Sensor Readings Over Time](Vibration Sensor Readings Over Time.png)
+Vibration Sensor Readings Over Time.png
 
 ### Detected Anomalies in Sensor Data
 
-![Detected Anomalies in Sensor Data](Detected Anomalies in Sensor Data.png)
+Detected Anomalies in Sensor Data.png
 
 ## Installation / Setup
 
