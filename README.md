@@ -57,10 +57,15 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 
 ## Demo
 
-vibration_sensor_plot.png
+## Demo
 
-anomaly_detection_plot.png
+### Vibration Sensor Readings Over Time
 
+![Vibration Sensor Readings Over Time](./vibration_sensor_plot.png)
+
+### Detected Anomalies in Sensor Data
+
+![Detected Anomalies in Sensor Data](./anomaly_detection_plot.png)
 ## Installation / Setup
 
 Clone the repository:
