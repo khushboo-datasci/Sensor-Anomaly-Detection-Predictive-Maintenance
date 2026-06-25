@@ -57,8 +57,6 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 
 ## Demo
 
-## Demo
-
 ### Vibration Sensor Readings Over Time
 
 ![Vibration Sensor Readings Over Time](./vibration_sensor_plot.png)
