@@ -66,6 +66,7 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 ![Detected Anomalies in Sensor Data](./anomaly_detection_plot.png)
 ## Installation / Setup
 
+'''bash
 This project was developed and executed using **Google Colab**.
 
 [Open in Google Colab](https://colab.research.google.com/drive/10DyrMy4XM4F-MpSp-q4Our-R4C8TpL2-?usp=sharing)
