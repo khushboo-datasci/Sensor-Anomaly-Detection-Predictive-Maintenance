@@ -66,23 +66,24 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 ![Detected Anomalies in Sensor Data](./anomaly_detection_plot.png)
 ## Installation / Setup
 
-'''bash
-This project was developed and executed using **Google Colab**.
+This project was developed and executed using ### Google Colab.
 
-[Open in Google Colab](https://colab.research.google.com/drive/10DyrMy4XM4F-MpSp-q4Our-R4C8TpL2-?usp=sharing)
+Open in Google Colab
 
-To run the project:
-
-1. Open the notebook using the Google Colab link.
-2. Click on **Runtime**.
-3. Select **Run all**.
+### Run on Google Colab
+1. Open the notebook using the Google Colab link above.
+2. Click on Runtime.
+3. Select Run all.
 4. The notebook will execute data preprocessing, EDA, anomaly detection, model evaluation and prediction generation.
+### Run Locally
 
+Clone the repository:
 
-```bash
-git clone https://github.com/khushboo-datasci/Sensor-Anomaly-Detection-Predictive-Maintenance
-cd Sensor-Anomaly-Detection-Predictive-Maintenance
-## Usage
+git clone https://github.com/khushboo-datasci/Sensor-Anomaly-Detection-Predictive-Maintenance.git
+
+Navigate to the project folder:
+
+cd Sensor-Anomaly-Detection-Predictive-Maintenance## Usage
 
 * Load the sensor dataset
 * Analyze dataset information and summary statistics
