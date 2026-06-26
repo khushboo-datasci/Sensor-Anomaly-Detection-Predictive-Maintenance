@@ -66,10 +66,9 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 ![Detected Anomalies in Sensor Data](./anomaly_detection_plot.png)
 ## Installation / Setup
 
-This project was developed and executed using ### Google Colab.
+This project was developed and executed using Google Colab.
 
-Open in Google Colab
-
+[Open in Google Colab](https://colab.research.google.com/drive/10DyrMy4XM4F-MpSp-q4Our-R4C8TpL2-?usp=sharing)
 ### Run on Google Colab
 1. Open the notebook using the Google Colab link above.
 2. Click on Runtime.
