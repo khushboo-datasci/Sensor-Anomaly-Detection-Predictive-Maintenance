@@ -82,7 +82,8 @@ git clone https://github.com/khushboo-datasci/Sensor-Anomaly-Detection-Predictiv
 
 Navigate to the project folder:
 
-cd Sensor-Anomaly-Detection-Predictive-Maintenance## Usage
+cd Sensor-Anomaly-Detection-Predictive-Maintenance 
+## Usage
 
 * Load the sensor dataset
 * Analyze dataset information and summary statistics
