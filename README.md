@@ -159,12 +159,9 @@ This type of anomaly detection system can be used in:
 * Early fault detection
 * Equipment failure prevention
 
-## Author
 
-**Khushboo Kumari**
-GitHub: https://github.com/khushboo-datasci
 
-behavior.
+### Behavior.
 
 Since the anomalies are clearly separated from normal readings, the model achieved very high accuracy. On real-world noisy sensor data, model performance may vary and further preprocessing, tuning, and validation would be required.
 
@@ -180,6 +177,6 @@ Equipment failure prevention
 
 
 
-Author
-Khushboo Kumari
+### Author
+**Khushboo Kumari**
 https://github.com/khushboo-datasci
