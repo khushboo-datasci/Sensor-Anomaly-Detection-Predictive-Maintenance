@@ -66,36 +66,21 @@ Manual monitoring of such sensor data is time-consuming and error-prone. This pr
 ![Detected Anomalies in Sensor Data](./anomaly_detection_plot.png)
 ## Installation / Setup
 
-Clone the repository:
+This project was developed and executed using **Google Colab**.
+
+[Open in Google Colab](https://colab.research.google.com/drive/10DyrMy4XM4F-MpSp-q4Our-R4C8TpL2-?usp=sharing)
+
+To run the project:
+
+1. Open the notebook using the Google Colab link.
+2. Click on **Runtime**.
+3. Select **Run all**.
+4. The notebook will execute data preprocessing, EDA, anomaly detection, model evaluation and prediction generation.
+
 
 ```bash
-git clone https://github.com/khushboo-datasci/Sensor-Anomaly-Detection-Predictive-Maintenance.git
-```
-
-Navigate to the project folder:
-
-```bash
+git clone https://github.com/khushboo-datasci/Sensor-Anomaly-Detection-Predictive-Maintenance
 cd Sensor-Anomaly-Detection-Predictive-Maintenance
-```
-
-Install required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project:
-
-```bash
-python sensor_anomaly_detection.py
-```
-
-Or open the notebook:
-
-```bash
-jupyter notebook sensor_anomaly_detection.ipynb
-```
-
 ## Usage
 
 * Load the sensor dataset
@@ -177,24 +162,7 @@ This type of anomaly detection system can be used in:
 **Khushboo Kumari**
 GitHub: https://github.com/khushboo-datasci
 
-Confusion Matrix:
-
-[[1140 0]
-[ 0 60]]
-
-Classification Report:
-
-precision recall f1-score support
-
-0 1.00 1.00 1.00 1140
-1 1.00 1.00 1.00 60
-
-accuracy 1.00 1200
-macro avg 1.00 1.00 1.00 1200
-weighted avg 1.00 1.00 1.00 1200
-
-Note
-This project uses a synthetic sensor dataset where anomalies were intentionally added to represent abnormal machine or infrastructure behavior.
+behavior.
 
 Since the anomalies are clearly separated from normal readings, the model achieved very high accuracy. On real-world noisy sensor data, model performance may vary and further preprocessing, tuning, and validation would be required.
 
